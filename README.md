@@ -1,5 +1,7 @@
 # Google Keep to Evernote notes converter
 
+Forked from https://gitlab.com/charlescanato/google-keep-to-evernote-converter
+
 Originally created and posted by user **dgc** on https://discussion.evernote.com/topic/97201-how-to-transfer-all-the-notes-from-google-keep-to-ever
 note/
 
